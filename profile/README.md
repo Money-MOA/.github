@@ -8,14 +8,14 @@
 
 ## 😎 팀 구성
 
-| <img src="https://github.com/NangManBo.png" width="100"/> <br/> [강병현](https://github.com/NangManBo) | <img src="https://github.com/NangManBo.png" width="100"/> <br/> [김보성](https://github.com/NangManBo) | <img src="https://github.com/ryusemin.png" width="100"/> <br/> [김연후](https://github.com/ryusemin) | <img src="https://github.com/l0o0lv.png" width="100"/> <br/> [김지민](https://github.com/l0o0lv) |
-| :----------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------: |
+| <img src="https://github.com/bangbang444.png" width="100"/> <br/> [강병현](https://github.com/bangbang444) | <img src="https://github.com/Greantea0413.png" width="100"/> <br/> [김보성](https://github.com/Greantea0413) | <img src="https://github.com/yeonhookim.png" width="100"/> <br/> [김연후](https://github.com/yeonhookim) | <img src="https://github.com/rlawlals119.png" width="100"/> <br/> [김지민](https://github.com/rlawlals119) |
+| :--------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------: |
 
 ---
 
 ## 👨‍🏫 개발 문서
 
-📄 [Notion 개발 문서 바로가기](https://wool-magpie-f47.notion.site/Poopcheline-Guide-56b40099b67e4ee986b6d36a98d7109c?pvs=4)
+📄 [Notion 개발 문서 바로가기](https://south-cereal-73e.notion.site/1ce25f1aae4b80c48baada5e7da49915)
 
 ---
 
